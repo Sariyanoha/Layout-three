@@ -1,0 +1,118 @@
+body{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	padding: 20px 0;
+}
+.bg{
+	background-color: #c0c0c0;
+}
+/* logo style start here */
+.logo {
+	height: 100px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin: 15px 0;
+}
+.logo h2{
+	font-size: 40px;
+	text-transform: capitalize;
+	margin: 0;
+}
+/* logo style end here */	
+/* Banner start here */
+.header{
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 15px 0;
+}
+.header h2{
+	font-size: 40px;
+	text-transform: capitalize;
+	margin: 0;
+}
+/* Banner end here */
+/* navigation start here */
+.navigation{
+	height: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 15px 0;
+}
+.navigation h2{
+	font-size: 40px;
+	text-transform: capitalize;
+	margin: 0;
+}
+/* navigation end here */
+/* Body content start here */
+.body-content{
+	display: flex;
+	justify-content: space-between;
+}
+.box-1{
+	width: 32%;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-1 h2{
+	font-size: 40px;
+	text-transform: capitalize;
+	margin: 0;
+}
+.box-2{
+	width: 32%;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-2 h2{
+	font-size: 40px;
+	text-transform: capitalize;
+	margin: 0;
+}
+.box-3{
+	width: 32%;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box-3 h2{
+	font-size: 40px;
+	text-transform: capitalize;
+	margin: 0;
+}
+/* Body content end here */
+/* Footer content start here */
+.footer-content{
+	height: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 15px 0;
+}
+.footer-content h2{
+	font-size: 40px;
+	text-transform: capitalize;
+	margin: 0;
+}
+/* Footer content end here */
+
+	
+
+
+
+	
